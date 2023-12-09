@@ -1,0 +1,5 @@
+C:\Iterasys\ProjetoCalculadora\obj\Debug\net7.0\ProjetoCalculadora.csproj.AssemblyReference.cache
+C:\Iterasys\ProjetoCalculadora\obj\Debug\net7.0\ProjetoCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iterasys\ProjetoCalculadora\obj\Debug\net7.0\ProjetoCalculadora.AssemblyInfoInputs.cache
+C:\Iterasys\ProjetoCalculadora\obj\Debug\net7.0\ProjetoCalculadora.AssemblyInfo.cs
+C:\Iterasys\ProjetoCalculadora\obj\Debug\net7.0\ProjetoCalculadora.csproj.CoreCompileInputs.cache
